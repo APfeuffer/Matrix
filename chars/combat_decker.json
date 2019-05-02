@@ -1,0 +1,41 @@
+{
+    "abilities": {
+        "body": 6,
+        "intelligence": 5,
+        "willpower": 5
+    },
+    "cyberware": [
+        {"type": "Datajack", "grade": "Alpha"},
+        {"type": "Datajack", "grade": "Alpha"},
+        {"type": "Memory", "grade": "Alpha", "amount": 200},
+        {"type": "Radio", "grade": "Alpha", "level": 5}
+    ],
+    "deck": "CMT Avatar",
+    "gear": [],
+    "skills": {
+        "Computer": 6,
+        "Computer B/R": 4
+    },
+    "knowledge": {
+        "Data Havens": 5,
+        "Jackpoint Location": 4,
+        "Matrix Gangs": 4,
+        "Corporate Hosts in Seattle": 4
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Armor", "level": 6},
+        {"type": "Attack-D", "level": 6},
+        {"type": "Camo", "level": 4},
+        {"type": "Commlink", "level": 5},
+        {"type": "Deception", "level": 6},
+        {"type": "Decrypt", "level": 6},
+        {"type": "Killjoy", "level": 5},
+        {"type": "Medic", "level": 6},
+        {"type": "Read/Write", "level": 5},
+        {"type": "Relocate", "level": 5},
+        {"type": "Scanner", "level": 4},
+        {"type": "Sleaze", "level": 6},
+        {"type": "Spoof", "level": 4}
+    ]
+}

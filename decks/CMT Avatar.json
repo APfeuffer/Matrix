@@ -1,0 +1,9 @@
+{   "name": "CMT Avatar",
+    "mpcp": 7,
+    "hardening": 4,
+    "memory": 700,
+    "storage": 1400,
+    "io_speed": 300,
+    "response": 1,
+    "cost": 250000
+}

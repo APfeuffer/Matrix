@@ -1,0 +1,9 @@
+{   "name": "Novatech Slimcase-10",
+    "mpcp": 10,
+    "hardening": 5,
+    "memory": 2000,
+    "storage": 2500,
+    "io_speed": 480,
+    "response": 2,
+    "cost": 960000
+}

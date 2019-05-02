@@ -1,0 +1,34 @@
+{
+    "abilities": {
+        "Body": 3,
+        "Intelligence": 6,
+        "Willpower": 5
+    },
+    "cyberware": [
+        {"type": "Cerebral Booster", "level": 1},
+        {"type": "Data Compactor", "level": 4},
+        {"type": "Datajack"},
+        {"type": "Encephalon", "level": 2},
+        {"type": "Memory", "amount": 300},
+        {"type": "Mnemonic Enhancer", "level": 3}
+    ],
+    "deck": "CMT Avatar",
+    "gear": [],
+    "skills": {
+        "Computer": 4,
+        "Search Operations": 7
+    },
+    "knowledge": {
+        "Data Brokerage": 8,
+        "Data Havens": 6
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Browse", "level": 4},
+        {"type": "Commlink", "level": 6},
+        {"type": "Deception", "level": 4},
+        {"type": "Decrypt", "level": 5},
+        {"type": "Read/Write", "level": 4},
+        {"type": "Sleaze", "level": 5}
+    ]
+}

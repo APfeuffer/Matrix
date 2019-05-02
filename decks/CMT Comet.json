@@ -1,0 +1,9 @@
+{   "name": "CMT Comet",
+    "mpcp": 2,
+    "persona": {"Bod": 3, "Sensor": 3},
+    "memory": 100,
+    "storage": 200,
+    "io_speed": 50,
+    "cost": 2000,
+    "hot_asist": false
+}

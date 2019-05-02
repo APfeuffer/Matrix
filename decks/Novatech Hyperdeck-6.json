@@ -1,0 +1,10 @@
+{   "name": "Novatech Hyperdeck-6",
+    "mpcp": 6,
+    "hardening": 4,
+    "memory": 500,
+    "storage": 1000,
+    "io_speed": 240,
+    "response": 1,
+    "cost": 125000,
+    "hot_asist": true
+}

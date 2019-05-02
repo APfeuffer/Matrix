@@ -1,0 +1,8 @@
+{   "name": "Allegiance Sigma",
+    "mpcp": 3,
+    "hardening": 1,
+    "memory": 200,
+    "storage": 500,
+    "io_speed": 100,
+    "cost": 14000
+}

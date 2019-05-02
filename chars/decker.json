@@ -1,0 +1,43 @@
+{
+    "abilities": {
+        "body": 3,
+        "intelligence": 6,
+        "willpower": 5
+    },
+    "cyberware": [
+        {"type": "Cerebral Booster", "level": 1},
+        {"type": "Datajack"},
+        {"type": "Encephalon", "level": 1},
+        {"type": "Math SPU", "level": 2},
+        {"type": "Memory", "amount": 300}
+    ],
+    "deck": "Renraku Kraftwerk-8",
+    "gear": [],
+    "skills": {
+        "Computer": 5,
+        "Decking": 7,
+        "Computer B/R": 4
+    },
+    "knowledge": {
+        "Data Brokerage": 5,
+        "Data Havens": 4,
+        "LTG Familiarity": 5,
+        "Operational Utility Design": 4
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Armor", "level": 6},
+        {"type": "Attack-D", "level": 6},
+        {"type": "Camo", "level": 4},
+        {"type": "Commlink", "level": 5},
+        {"type": "Deception", "level": 6},
+        {"type": "Decrypt", "level": 6},
+        {"type": "Killjoy", "level": 5},
+        {"type": "Medic", "level": 6},
+        {"type": "Read/Write", "level": 5},
+        {"type": "Redirect", "level": 5},
+        {"type": "Scanner", "level": 4},
+        {"type": "Sleaze", "level": 6},
+        {"type": "Spoof", "level": 4}
+    ]
+}

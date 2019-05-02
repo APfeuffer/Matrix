@@ -1,0 +1,33 @@
+{
+    "ui": {
+        "mpcp": "MPCP:",
+        "io": "IO:",
+        "bod": "Bod: ",
+        "evasion": "Evsn:",
+        "masking": "Mask:",
+        "sensor": "Sens:",
+        "memory": "Memory:",
+        "utilities": "Utilities:",
+        "pool": "Pool:",
+        "damage": "Dmg:",
+        "asist_hot": "HOT",
+        "asist_cold": "COLD",
+        "asist_tortoise": "SAFE",
+        "asist_suspended": "SUSP",
+        "icons": "Icons:",
+        "links": "Links:",
+        "storage": "Storage:"
+    },
+    "host": {
+        "host_blue": "Blue",
+        "host_green": "Green",
+        "host_orange": "Orange",
+        "host_red": "Red",
+        "host_black": "Black",
+        "access": "Access",
+        "control": "Control",
+        "index": "Index",
+        "file": "File",
+        "slave": "Slave"
+    }
+}

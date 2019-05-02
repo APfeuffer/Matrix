@@ -1,0 +1,9 @@
+{   "name": "CMT Portal",
+    "mpcp": 1,
+    "persona": {"Bod": 2, "Sensor": 3},
+    "memory": 50,
+    "storage": 100,
+    "io_speed": 50,
+    "cost": 1300,
+    "hot_asist": false
+}

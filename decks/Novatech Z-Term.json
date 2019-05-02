@@ -1,0 +1,9 @@
+{   "name": "Novatech Z-Term",
+    "mpcp": 2,
+    "persona": {"Bod": 2, "Sensor": 4},
+    "memory": 100,
+    "storage": 250,
+    "io_speed": 50,
+    "cost": 2200,
+    "hot_asist": false
+}

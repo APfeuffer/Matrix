@@ -1,0 +1,9 @@
+{   "name": "Renraku Cybot",
+    "mpcp": 3,
+    "persona": {"Bod": 4, "Sensor": 5},
+    "memory": 100,
+    "storage": 200,
+    "io_speed": 5,
+    "cost": 6500,
+    "hot_asist": false
+}

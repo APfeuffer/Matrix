@@ -1,0 +1,9 @@
+{   "name": "Sony CTY-360-D",
+    "mpcp": 5,
+    "hardening": 3,
+    "memory": 300,
+    "storage": 600,
+    "io_speed": 200,
+    "response": 1,
+    "cost": 70000
+}

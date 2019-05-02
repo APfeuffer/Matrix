@@ -1,0 +1,9 @@
+{   "name": "MCT Matrix Master",
+    "mpcp": 1,
+    "persona": {"Bod": 2, "Sensor": 3},
+    "memory": 100,
+    "storage": 200,
+    "io_speed": 50,
+    "cost": 1900,
+    "hot_asist": false
+}

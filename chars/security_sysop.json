@@ -1,0 +1,43 @@
+{
+    "abilities": {
+        "body": 3,
+        "intelligence": 6,
+        "willpower": 6
+    },
+    "cyberware": [
+        {"type": "Cerebral Booster", "level": 1},
+        {"type": "Datajack"},
+        {"type": "Encephalon", "level": 2},
+        {"type": "Math SPU", "level": 3},
+        {"type": "Memory", "amount": 150}
+    ],
+    "deck": "Transys Highlander",
+    "gear": [],
+    "skills": {
+        "Computer": 6,
+        "Decking": 8,
+        "Computer B/R": 3,
+        "Matrix Tactics": 6
+    },
+    "knowledge": {
+        "Decker Tricks": 4,
+        "IC Profiles": 6,
+        "Matrix Topography": 5
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Armor", "level": 6},
+        {"type": "Attack-D", "level": 6},
+        {"type": "Camo", "level": 4},
+        {"type": "Commlink", "level": 5},
+        {"type": "Deception", "level": 6},
+        {"type": "Decrypt", "level": 6},
+        {"type": "Killjoy", "level": 5},
+        {"type": "Medic", "level": 6},
+        {"type": "Read/Write", "level": 5},
+        {"type": "Redirect", "level": 5},
+        {"type": "Scanner", "level": 4},
+        {"type": "Sleaze", "level": 6},
+        {"type": "Spoof", "level": 4}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "abilities": {
+        "Body": 4,
+        "Intelligence": 6,
+        "Willpower": 5
+    },
+    "cyberware": [
+        {"type": "Cerebral Booster", "level": 2},
+        {"type": "Datajack"},
+        {"type": "Encephalon", "level": 1},
+        {"type": "Math SPU", "level": 3},
+        {"type": "Memory", "amount": 50},
+        {"type": "Mnemonic Enhancer", "level": 3}
+    ],
+    "deck": "Novatech Slimcase-10",
+    "gear": [],
+    "skills": {
+        "Computer": 5,
+        "Computer B/R": 5,
+        "Hardware": 7
+    },
+    "knowledge": {
+        "Cyberdecks": 6,
+        "Cyberterminal Code Design": 4
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Browse", "level": 4},
+        {"type": "Commlink", "level": 6},
+        {"type": "Deception", "level": 4},
+        {"type": "Decrypt", "level": 5},
+        {"type": "Read/Write", "level": 4},
+        {"type": "Sleaze", "level": 5}
+    ]
+}

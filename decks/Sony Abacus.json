@@ -1,0 +1,9 @@
+{   "name": "Sony Abacus",
+    "mpcp": 3,
+    "persona": {"Bod": 5, "Sensor": 4},
+    "memory": 200,
+    "storage": 300,
+    "io_speed": 100,
+    "cost": 7500,
+    "hot_asist": false
+}

@@ -1,0 +1,32 @@
+{
+    "abilities": {
+        "Body": 6,
+        "Intelligence": 5,
+        "Willpower": 5
+    },
+    "cyberware": [
+        {"type": "Chipjack", "grade":"Alpha"},
+        {"type": "Datajack", "grade":"Alpha"},
+        {"type": "Memory", "grade": "Alpha", "amount": 300}
+    ],
+    "deck": "Novatech Hyperdeck-6",
+    "gear": [
+        {"type": "Hitcher Jack"}
+    ],
+    "skills": {
+        "Computer": 6,
+        "Computer B/R": 6
+    },
+    "knowledge": {
+        "Matrix Topography": 4
+    },
+    "utilities": [
+        {"type": "Analyze", "level": 4},
+        {"type": "Browse", "level": 4},
+        {"type": "Commlink", "level": 6},
+        {"type": "Deception", "level": 4},
+        {"type": "Decrypt", "level": 5},
+        {"type": "Read/Write", "level": 4},
+        {"type": "Sleaze", "level": 5}
+    ]
+}

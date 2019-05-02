@@ -1,0 +1,9 @@
+{   "name": "Fairlight Excalibur",
+    "mpcp": 12,
+    "hardening": 6,
+    "memory": 3000,
+    "storage": 5000,
+    "io_speed": 600,
+    "response": 3,
+    "cost": 1500000
+}

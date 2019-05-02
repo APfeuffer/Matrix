@@ -1,0 +1,9 @@
+{   "name": "Transys Highlander",
+    "mpcp": 9,
+    "hardening": 4,
+    "memory": 1500,
+    "storage": 2500,
+    "io_speed": 400,
+    "response": 2,
+    "cost": 600000
+}

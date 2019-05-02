@@ -1,0 +1,9 @@
+{   "name": "Renraku Kraftwerk-8",
+    "mpcp": 8,
+    "hardening": 4,
+    "memory": 1000,
+    "storage": 2000,
+    "io_speed": 360,
+    "response": 2,
+    "cost": 400000
+}
